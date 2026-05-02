@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+atlas-data/
+atlas_chroma_db/
+atlas_processed.json
+
