@@ -5,8 +5,8 @@
 Содержит систематизированное описание техник и тактик атак на ИИ системы
 Разработан на основе MITRE Att@ck
  
-
 ![Часть матрицы MITRE](/images/mitre1.png)
+
 Рис: Часть матрицы MITRE ATLAS, https://atlas.mitre.org/matrices/ATLAS
 
 
@@ -53,9 +53,9 @@
 
 
 # Литература
-1.	Mitre atlas
-2.	RAG
-3.	Агенты https://huggingface.co/learn/agents-course/ru-RU/unit1/what-are-agents
+1.	MITRE ATLAS: https://atlas.mitre.org/
+2.	Описание технологии RAG: https://developers.sber.ru/help/business-development/what-is-rag
+3.	ИИ агенты (учебный курс huggingface) https://huggingface.co/learn/agents-course/ru-RU/unit1/what-are-agents
 
 
 # MITRE_AI_agent
